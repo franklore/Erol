@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{1298EAB6-438A-84A5-95FA-0DAD1DBD9880}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Erol",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"AIModule"
+			]
+		}
+	]
+}
